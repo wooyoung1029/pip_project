@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: yytest
+Version: 1.0.6
+Summary: time and path tool
+Home-page: https://github.com/wooyoung1029/test
+Author: wooyoung
+Author-email: 1021218480@qq.com
+License: MIT Licence
+Description: time and path tool
+Keywords: piptest
+Platform: any
